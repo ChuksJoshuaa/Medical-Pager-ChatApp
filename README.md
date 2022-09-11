@@ -1,6 +1,6 @@
 # Medical Pager ChatApp
 
-<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1655895000/media/Screenshot_213_j1bjvx.png" title="app" alt="app">...
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1655895000/media/Screenshot_213_j1bjvx.png" title="app" alt="app">....
 
 ## Available Scripts
 
